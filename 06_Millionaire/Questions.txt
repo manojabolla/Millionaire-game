@@ -1,0 +1,153 @@
+Where "Tetris" game was once invented ?
+Russia
+USA
+China
+Israel
+1
+
+AX contains 7, what will it be after SHL AX, 1 ?
+"1"
+"0"
+"70"
+"14"
+4
+
+What instruction is illegal for Intel's 8086 CPU ?
+PUSH DS
+MOV DS, CX
+POP AL
+MOV BX, 5
+3
+
+What makes the Sun to generate energy ?
+Chemical Reaction
+Nuclear Reaction
+Magic
+Static Electricity
+2
+
+How many 16 bit registers are in Intel's 8086 CPU ?
+"13"
+"4"
+"8"
+"6"
+1
+
+Who was the first man on the Moon ?
+Yuri
+Bill
+All Wrong
+Neil
+4
+
+Who was the first man to fly in space ?
+Bill
+Boris
+Yuri
+George
+3
+
+What is the nearest planet to Sun ?
+Jupiter
+Mercury
+Earth
+Pluto
+2
+
+How many minutes are in 420 seconds ?
+Seven
+Six
+Five
+Eight
+1
+
+What popcorn is made from?
+Potato
+Wheat
+Milk
+Maize
+4
+
+When was first electronic computer built ?
+1917
+1925
+1943
+1978
+3
+
+What is the largest planet in Solar System ?
+Earth
+Jupiter
+Saturn
+Mars
+2
+
+Who was the first man of Mars ?
+All Wrong
+Bill
+Yuri
+George
+1
+
+What temperature is known as an "absolute zero" ?
+-973 deg C
+0 deg C
+-435 deg C
+-273 deg C
+4
+
+What is the temperature at the center of the Sun ?
+99,000,000 deg C
+74,000,000 deg C
+15,000,000 deg C
+2,000,000 deg C
+3
+
+When first microprocessor was designed ?
+1967
+1971
+1982
+1945
+2
+
+When was the first space shuttle launched ?
+1981
+1976
+1988
+1992
+1
+
+What is the temperature at the surface of the Sun ?
+90,000,000 deg C
+8,000,000 deg C
+470,942 deg C
+5,530 deg C
+4
+
+What is the average speed of light?
+200,000 m/s
+400,000 m/s
+300,000 km/s
+500,000 km/s
+3
+
+How far is the Moon from the Earth ?
+850,000 km
+384,000 km
+2,751,000 km
+500,000 km
+2
+
+Who is the 41st president of USA?
+George
+Bill
+Mike
+Jack
+1
+
+Who is the Activenet MD?
+rajesh
+suresh
+ganesh
+mahesh
+1
