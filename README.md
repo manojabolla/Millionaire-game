@@ -1,1 +1,2 @@
 # Millionaire-game
+The millionaire is an application like a game. In this application first start the server, then any number of persons can play the game by connecting to server. Before going to start the game, select the friends for helping in your game. Whenever you start the game the server will ask the questions, if you are answering those questions you will get 100$ for first Question, 200$ for Second one, 300$ for third one, 500$ for fourth one, next questions onwards your earnings will become double up to million. Guppies you won the game.
